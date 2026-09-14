@@ -8,7 +8,7 @@ Sou apaixonado por construir sistemas robustos e eficientes, unindo a base teór
 - 🎓 Estudando **Ciência da Computação** 
 - 💻 Foco em arquitetura estruturada, SSR/SSG e APIs RESTful
 - 💡 Buscando sempre a integração perfeita entre Front-end e Back-end
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/teylonoliveira/) ou através do meu [Portfólio](#)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/teylonoliveira/) ou através do meu [Portfólio](https://portifolio-sigma-khaki.vercel.app/#projetos)
 
 ### 🛠️ Minha Stack Principal
 
