@@ -42,24 +42,12 @@
 
 <br>
 
-### 🛠️ Minha Stack
+### 🛠️ Minhas Habilidades
 
 <div align="center">
-  <p><strong>Back-end, APIs & Banco de Dados</strong></p>
   <a href="https://skillicons.dev">
-    <!-- JavaScript e Next.js adicionados ao Backend -->
-    <img src="https://skillicons.dev/icons?i=js,python,django,nextjs,postgres&theme=dark&perline=5" alt="Backend Stack" />
-  </a>
-  <br><br>
-  <p><strong>Front-end & UI Performance</strong></p>
-  <a href="https://skillicons.dev">
-    <!-- JavaScript marcando presença no Frontend -->
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind&theme=dark&perline=4" alt="Frontend Stack" />
-  </a>
-  <br><br>
-  <p><strong>Deploy & Infraestrutura</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,heroku&theme=dark&perline=2" alt="Infra Stack" />
+    <!-- Todas as tecnologias unificadas num único bloco (5 por linha) -->
+    <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,django,tailwind,postgres,vercel,heroku&theme=dark&perline=5" alt="My Skills" />
   </a>
 </div>
 
