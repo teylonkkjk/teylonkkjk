@@ -64,22 +64,6 @@
 
 ---
 
-### 📊 Estatísticas e Troféus do GitHub
-
-<div align="center">
-  <!-- Troféus Dinâmicos atualizados para teylonkkjk -->
-  <img src="https://github-profile-trophy.vercel.app/?username=teylonkkjk&theme=transparent&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title_color=38B2AC" alt="GitHub Troféus" />
-  <br><br>
-  <!-- Streak Stats atualizados para teylonkkjk -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teylonkkjk&theme=transparent&hide_border=true&title_color=38B2AC" alt="GitHub Streak Stats" />
-  <br><br>
-  <!-- Estatísticas Gerais e Linguagens mais Usadas atualizados para teylonkkjk -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=teylonkkjk&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777&icon_color=38B2AC" height="150" alt="Estatísticas do Teylon" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teylonkkjk&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777" height="150" alt="Linguagens mais usadas" />
-  </div>
-</div>
-
 <br/>
 
 <div align="center">
