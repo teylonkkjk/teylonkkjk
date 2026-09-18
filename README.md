@@ -20,7 +20,7 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="width: 60%;">
-    Sou apaixonado por construir sistemas web completos, robustos e eficientes. Atuo de ponta a ponta no desenvolvimento: domino o **Back-end com Python e Django** para criar arquiteturas limpas e APIs seguras, e utilizo todo o poder Full Stack do **Next.js e React** para integrar o servidor a interfaces modernas e de altíssima performance.
+    Sou apaixonado por construir sistemas web completos, robustos e eficientes. Atuo de ponta a ponta no desenvolvimento: domino o **Back-end com Python e Django** para criar arquiteturas limpas e APIs seguras, e utilizo todo o poder Full Stack do **JavaScript, Next.js e React** para integrar o servidor a interfaces modernas e de altíssima performance.
     <br><br>
     - 🎓 Estudando **Ciência da Computação**.
     - 🐍 Especialista na criação de APIs e modelagem de banco de dados com **Django e DRF**.
@@ -47,13 +47,14 @@
 <div align="center">
   <p><strong>Back-end, APIs & Banco de Dados</strong></p>
   <a href="https://skillicons.dev">
-    <!-- Next.js duplicado aqui com micro-animações -->
-    <img src="https://skillicons.dev/icons?i=python,django,nextjs,postgres&theme=dark&perline=4" alt="Backend Stack" />
+    <!-- JavaScript e Next.js adicionados ao Backend -->
+    <img src="https://skillicons.dev/icons?i=js,python,django,nextjs,postgres&theme=dark&perline=5" alt="Backend Stack" />
   </a>
   <br><br>
   <p><strong>Front-end & UI Performance</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=3" alt="Frontend Stack" />
+    <!-- JavaScript marcando presença no Frontend -->
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind&theme=dark&perline=4" alt="Frontend Stack" />
   </a>
   <br><br>
   <p><strong>Deploy & Infraestrutura</strong></p>
