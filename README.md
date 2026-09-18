@@ -40,7 +40,7 @@
     IMPORTANTE: Esta imagem abaixo refere-se ao arquivo gerado automaticamente pela GitHub Action.
     Para que ela funcione, você DEVE seguir o passo a passo na nota abaixo.
   -->
-  <img src="https://raw.githubusercontent.com/teylonoliveira/teylonoliveira/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/teylonkkjk/teylokkjk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br>
