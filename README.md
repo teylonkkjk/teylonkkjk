@@ -33,19 +33,16 @@
 
 <br>
 
-### 🐍 Minhas Contribuições (Animação Snake)
+### 🐍 Minhas Contribuições
 
 <div align="center">
-  <!-- 
-    IMPORTANTE: Esta imagem abaixo refere-se ao arquivo gerado automaticamente pela GitHub Action.
-    Para que ela funcione, você DEVE seguir o passo a passo na nota abaixo.
-  -->
-  <img src="https://raw.githubusercontent.com/teylonkkjk/teylokkjk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <!-- Animação Snake configurada para o utilizador teylonkkjk -->
+  <img src="https://raw.githubusercontent.com/teylonkkjk/teylonkkjk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br>
 
-### 🛠️ Minha Stack (Novos Ícones com Micro-Animações)
+### 🛠️ Minha Stack
 
 <div align="center">
   <p><strong>Back-end, APIs & Banco de Dados</strong></p>
@@ -67,19 +64,19 @@
 
 ---
 
-### 📊 Estatísticas e Troféus do GitHub (Dinâmico)
+### 📊 Estatísticas e Troféus do GitHub
 
 <div align="center">
-  <!-- Troféus Dinâmicos -->
-  <img src="https://github-profile-trophy.vercel.app/?username=teylonoliveira&theme=transparent&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title_color=38B2AC" alt="GitHub Troféus" />
+  <!-- Troféus Dinâmicos atualizados para teylonkkjk -->
+  <img src="https://github-profile-trophy.vercel.app/?username=teylonkkjk&theme=transparent&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title_color=38B2AC" alt="GitHub Troféus" />
   <br><br>
-  <!-- Streak Stats: Foca em commits e atividade -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teylonoliveira&theme=transparent&hide_border=true&title_color=38B2AC" alt="GitHub Streak Stats" />
+  <!-- Streak Stats atualizados para teylonkkjk -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teylonkkjk&theme=transparent&hide_border=true&title_color=38B2AC" alt="GitHub Streak Stats" />
   <br><br>
-  <!-- Estatísticas Gerais e Linguagens mais Usadas (Transparentes) -->
+  <!-- Estatísticas Gerais e Linguagens mais Usadas atualizados para teylonkkjk -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=teylonoliveira&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777&icon_color=38B2AC" height="150" alt="Estatísticas do Teylon" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teylonoliveira&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777" height="150" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=teylonkkjk&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777&icon_color=38B2AC" height="150" alt="Estatísticas do Teylon" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teylonkkjk&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777" height="150" alt="Linguagens mais usadas" />
   </div>
 </div>
 
