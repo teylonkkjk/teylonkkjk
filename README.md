@@ -46,21 +46,6 @@
 
 <br/>
 
-### 📊 Estatísticas e Contribuições
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teylonkkjk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teylonkkjk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/teylonkkjk/teylonkkjk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br/>
-
 <div align="center">
   <i>⭐️ De uma base teórica sólida à prática de mercado de ponta a ponta.</i>
 </div>
