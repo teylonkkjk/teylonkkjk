@@ -46,6 +46,14 @@
 
 <br/>
 
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/teylonkkjk/teylonkkjk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br/>
+
 <div align="center">
   <i>⭐️ De uma base teórica sólida à prática de mercado de ponta a ponta.</i>
 </div>
